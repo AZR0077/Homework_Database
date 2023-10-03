@@ -99,7 +99,7 @@ editor1.insert(tk.END, current_text[0][0:len(current_text[0])])
 editor1.configure(state='disabled')
 
 
-
+# Courses
 first_half = ['Government', 'English', 'Physics', 'French']
 lunch = ['Lunch', 'Lunch / Lab']
 second_half = ['Gym', 'Photo', 'Precalculus', 'AP Computer Science']
