@@ -3,6 +3,6 @@ This is a small application that can be used to keep track of a student's daily 
 
 # Made in Python
 
-Contains Two Files:
+Contains two files:
   - py main code file
   - text document for saving functionality
